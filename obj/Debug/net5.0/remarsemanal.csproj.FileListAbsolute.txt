@@ -1,0 +1,265 @@
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.csprojAssemblyReference.cache
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.AssemblyInfoInputs.cache
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.AssemblyInfo.cs
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.csproj.CoreCompileInputs.cache
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cs
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cache
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\appsettings.Development.json
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\appsettings.json
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\omnisharp.json
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\remarsemanal.exe
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\remarsemanal.deps.json
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\remarsemanal.runtimeconfig.json
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\remarsemanal.runtimeconfig.dev.json
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\ref\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\remarsemanal.pdb
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\AutoMapper.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Humanizer.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Npgsql.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.Manifest.cache
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.xml
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\scopedcss\bundle\remarsemanal.styles.css
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.RazorTargetAssemblyInfo.cache
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.csproj.CopyComplete
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\ref\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.pdb
+C:\AlfametaWeb\remar semanal\remarsemanal\obj\Debug\net5.0\remarsemanal.genruntimeconfig.cache
+C:\AlfametaWeb\remar semanal\remarsemanal\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\omnisharp.json
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\appsettings.json
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\remarsemanal.exe
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\remarsemanal.deps.json
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\remarsemanal.runtimeconfig.json
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\remarsemanal.runtimeconfig.dev.json
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\remarsemanal.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\ref\remarsemanal.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\remarsemanal.pdb
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Npgsql.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mario\Music\remarsemanal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.csprojAssemblyReference.cache
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.AssemblyInfoInputs.cache
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.AssemblyInfo.cs
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.csproj.CoreCompileInputs.cache
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.Manifest.cache
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.xml
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\scopedcss\bundle\remarsemanal.styles.css
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.RazorTargetAssemblyInfo.cache
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.csproj.CopyComplete
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.dll
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\ref\remarsemanal.dll
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.pdb
+C:\Users\mario\Music\remarsemanal\obj\Debug\net5.0\remarsemanal.genruntimeconfig.cache
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\appsettings.Development.json
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\appsettings.json
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\omnisharp.json
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\remarsemanal.exe
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\remarsemanal.deps.json
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\remarsemanal.runtimeconfig.json
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\remarsemanal.runtimeconfig.dev.json
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\ref\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\remarsemanal.pdb
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\AutoMapper.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Humanizer.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Npgsql.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.csprojAssemblyReference.cache
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.AssemblyInfoInputs.cache
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.AssemblyInfo.cs
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.csproj.CoreCompileInputs.cache
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cs
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cache
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.Manifest.cache
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.xml
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\scopedcss\bundle\remarsemanal.styles.css
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.RazorTargetAssemblyInfo.cache
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.csproj.CopyComplete
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\ref\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.pdb
+C:\AlfametaWeb\remar semanal\api\remarsemanal\obj\Debug\net5.0\remarsemanal.genruntimeconfig.cache
+C:\Users\mario\Music\api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mario\Music\api\bin\Debug\net5.0\appsettings.json
+C:\Users\mario\Music\api\bin\Debug\net5.0\omnisharp.json
+C:\Users\mario\Music\api\bin\Debug\net5.0\remarsemanal.exe
+C:\Users\mario\Music\api\bin\Debug\net5.0\remarsemanal.deps.json
+C:\Users\mario\Music\api\bin\Debug\net5.0\remarsemanal.runtimeconfig.json
+C:\Users\mario\Music\api\bin\Debug\net5.0\remarsemanal.runtimeconfig.dev.json
+C:\Users\mario\Music\api\bin\Debug\net5.0\remarsemanal.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\ref\remarsemanal.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\remarsemanal.pdb
+C:\Users\mario\Music\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Npgsql.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mario\Music\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.csprojAssemblyReference.cache
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.AssemblyInfoInputs.cache
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.AssemblyInfo.cs
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.csproj.CoreCompileInputs.cache
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mario\Music\api\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.Manifest.cache
+C:\Users\mario\Music\api\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.xml
+C:\Users\mario\Music\api\obj\Debug\net5.0\scopedcss\bundle\remarsemanal.styles.css
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.RazorTargetAssemblyInfo.cache
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.csproj.CopyComplete
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.dll
+C:\Users\mario\Music\api\obj\Debug\net5.0\ref\remarsemanal.dll
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.pdb
+C:\Users\mario\Music\api\obj\Debug\net5.0\remarsemanal.genruntimeconfig.cache
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\appsettings.Development.json
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\appsettings.json
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\omnisharp.json
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\remarsemanal.exe
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\remarsemanal.deps.json
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\remarsemanal.runtimeconfig.json
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\remarsemanal.runtimeconfig.dev.json
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\ref\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\remarsemanal.pdb
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\AutoMapper.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Humanizer.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Npgsql.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AlfametaWeb\remar semanal\api-tasks\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.csprojAssemblyReference.cache
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.AssemblyInfoInputs.cache
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.AssemblyInfo.cs
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.csproj.CoreCompileInputs.cache
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cs
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.MvcApplicationPartsAssemblyInfo.cache
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.Manifest.cache
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\staticwebassets\remarsemanal.StaticWebAssets.xml
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\scopedcss\bundle\remarsemanal.styles.css
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.RazorTargetAssemblyInfo.cache
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.csproj.CopyComplete
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\ref\remarsemanal.dll
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.pdb
+C:\AlfametaWeb\remar semanal\api-tasks\obj\Debug\net5.0\remarsemanal.genruntimeconfig.cache
