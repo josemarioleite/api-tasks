@@ -5,7 +5,7 @@ namespace remarsemanal.Model.usuario
     public class UsuarioAlteraSenha
     {
         public int id { get; set; }
-        public string primeiroacesso { get; set; } = "S";
+        public string primeiroacesso { get; set; }
         public string senha { get; set; }
         [JsonIgnore]
         public byte[] senhanova { get; set; }
