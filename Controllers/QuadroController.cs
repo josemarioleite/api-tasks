@@ -30,10 +30,10 @@ namespace remarsemanal.Controllers
         [HttpGet]
         public async Task<ActionResult<List<Quadro>>> ListaQuadro()
         {
-            int userID = await _jwt.RetornaIDUsuarioDoToken(HttpContext);
+            //int userID = await _jwt.RetornaIDUsuarioDoToken(HttpContext);
             return await _database.Quadro
                             .AsNoTracking()
-                            .Where(t => t.ativo == "S" && t.usuarioid == userID)
+                            .Where(t => t.ativo == "S")
                             .OrderByDescending(t => t.id)
                             .ToListAsync();
         }
