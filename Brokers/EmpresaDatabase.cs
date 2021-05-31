@@ -1,3 +1,4 @@
+using api.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using remarsemanal.Model;
@@ -12,6 +13,7 @@ namespace remarsemanal.Brokers
         public DbSet<Tarefa> Tarefa {get;set;}
         public DbSet<Tipo> Tipo {get;set;}
         public DbSet<Usuario> Usuario {get;set;}
+        public DbSet<Query> Consulta {get;set;}
 
         public EmpresaDatabase(DbContextOptions<EmpresaDatabase> options, IHttpContextAccessor  httpContextAccessor) : base(options)
         {
