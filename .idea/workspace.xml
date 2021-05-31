@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec82bee5-666f-4c28-bd68-a0dd2a669946" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Controllers/TarefaController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/TarefaController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/remarsemanal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/remarsemanal.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/remarsemanal.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/project.razor.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/remarsemanal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/remarsemanal.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/remarsemanal.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/remarsemanal.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/remarsemanal.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/remarsemanal.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/remarsemanal.csproj.nuget.g.props" afterDir="false" />
-    </list>
+    <list default="true" id="ec82bee5-666f-4c28-bd68-a0dd2a669946" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -157,7 +157,6 @@ namespace remarsemanal.Controllers
         }
 
         [HttpPatch("alterasenha")]
-        [Authorize]
         public async Task<ActionResult> AlteraSenhaUsuario(UsuarioAlteraSenha usuarioAlteraSenha) {
             Usuario usuario = await _database.Usuario.FindAsync(usuarioAlteraSenha.id);
             
@@ -169,7 +168,7 @@ namespace remarsemanal.Controllers
             hash.HasheiaSenha(usuarioAlteraSenha);
             usuario.senha = usuarioAlteraSenha.senhanova;
             usuario.senhahash = usuarioAlteraSenha.senhahash;
-            usuario.primeiroacesso = "S";
+            usuario.primeiroacesso = usuarioAlteraSenha.primeiroacesso;
             _database.Entry(usuario).State = EntityState.Modified;
             try {
                 await _database.SaveChangesAsync();
